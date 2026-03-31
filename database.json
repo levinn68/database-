@@ -1,8 +1,8 @@
 {
   "owner": "6285286065324",
-  "approved": [],
-  "pending": [
+  "approved": [
     "6281234567890"
   ],
+  "pending": [],
   "rejected": []
 }
